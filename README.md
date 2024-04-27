@@ -1,0 +1,1 @@
+This is a discord based bot that is used for fetching hackathons (both online and offline)
